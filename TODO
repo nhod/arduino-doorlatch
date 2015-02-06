@@ -1,0 +1,5 @@
+* add schematics, component list, and blog post with info on construction and hardware config
+* add non-code config notes (inside the Linux environment on the Yun)
+* add firewall rules for security (otherwise anyone who had access to your WiFi could open your front door)
+* build android app to control
+* write some docs for how to use
